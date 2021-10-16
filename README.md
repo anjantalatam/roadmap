@@ -10,6 +10,7 @@
 - [ ] Aggrid
 - [ ] Storybook
 - [ ] NextJS
+- [ ] Tailwind CSS
 - [ ] GatsbyJS
 
 <h4> OS </h4>
