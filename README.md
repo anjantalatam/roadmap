@@ -4,14 +4,16 @@
 <h3> List of tech that are next on my checklist </h3>
 
 
-<h4> FrontEnd </h4>
+<h4> UI </h4>
 
 - [ ] Firebase
+- [ ] Supabase
 - [ ] Aggrid
 - [ ] Storybook
 - [ ] NextJS
 - [ ] Tailwind CSS
 - [ ] GatsbyJS
+- [ ] Figma
 
 <h4> OS </h4>
 
